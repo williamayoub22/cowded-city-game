@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 596669931fd97dd459185d9d9dc2b93b
+timeCreated: 1513483697
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Start with Today
+  fontNames:
+  - Start with Today
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

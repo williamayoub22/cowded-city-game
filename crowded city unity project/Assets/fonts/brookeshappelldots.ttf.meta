@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f49021c0d4008b941ba41af4674193da
+timeCreated: 1513483830
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: brookeshappelldots
+  fontNames:
+  - brookeshappelldots
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
