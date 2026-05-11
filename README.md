@@ -3,11 +3,13 @@
 A classic, *Subway Surfers*-inspired 3D runner game built in Unity. This is an older archive project from my earlier game development days!
 
 ### Gameplay Showcase
-<video src="crowded%20city%20gameplay.mp4" controls="controls" style="max-width: 100%;"></video>
 
-*(Note: If the video does not load automatically in your browser, you can view or download the `crowded city gameplay.mp4` file directly from the repository).*
 
----
+
+
+https://github.com/user-attachments/assets/6c449a5e-a93f-474b-a8dc-a8c39e64d065
+
+
 
 ### About the Game
 In **Crowded City**, you are on the run from the law! You must navigate through heavy traffic and outrun a relentless police car chasing you down. 
